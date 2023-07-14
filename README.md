@@ -21,3 +21,4 @@ OPENAI_API_KEY="your-api-key"
 ## Recomendaciones
 - Ide [pycharm](https://www.jetbrains.com/pycharm/download/?section=windows)
 - Formateador PEP8
+- Entorno virtual [virtualenv](https://pypi.org/project/virtualenv)
